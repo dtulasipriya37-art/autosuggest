@@ -7,5 +7,3 @@ changes flow for pushing :
 2. commit with message
 3. push/sync
 
-new
-test
