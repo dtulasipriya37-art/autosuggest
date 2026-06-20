@@ -21,14 +21,14 @@ function toggle(){
     //image
 
     var user = users[curID];
-    document.getElementById(" user-img").src = user.image;
+    document.getElementById("user-img").src = user.image;
     
     //to do: update the name and gender
 
     //name
-    document.getElementById(" user-name").innerText = user.name;
+    document.getElementById("user-name").innerText = user.name;
     //gender
-    document.getElementById(" user-gender").innerText = user.gender;
+    document.getElementById("user-gender").innerText = user.gender;
 
 
 }
